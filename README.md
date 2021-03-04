@@ -2,6 +2,12 @@
 A curated list of Flow services and tools for software developers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+**Language**
+
+[English](README.md) | [中文](README-zh.md)
+
+
 ## Develop resources
 
 ### Network config
