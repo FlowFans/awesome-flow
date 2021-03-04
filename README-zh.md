@@ -84,15 +84,15 @@
 
 - 第1轮
 
-- [保留所有权记录的NFT]（https://play.onflow.org/62188087-bb62-4e1a-89cf-e437c729b5f0）
-- [创建变形金刚NFT的游戏，可以扫描对象并将其转换为变形金刚]（https://play.onflow.org/7f66d257-3e12-4ac7-a2d0-2db503eede22）
-- [游戏，您可以使用可配置的汽车零件，组装成完整汽车]（https://play.onflow.org/56099f70-d0c8-42eb-917c-9670554d764b）
-- [Shadowrun启发的冒险游戏，您可以在其中探索地图并找到线索]（https://play.onflow.org/159648c8-f6c2-49b1-8707-374f3efb80e8）
-- [机器人猎人游戏，您可以根据要求的特殊单词的哈希值创建独特的机器人]（https://play.onflow.org/bffa4e28-0eaf-430c-83ea-7d2465daf98d）
+- [保留所有权记录的NFT](https://play.onflow.org/62188087-bb62-4e1a-89cf-e437c729b5f0)
+- [创建变形金刚NFT的游戏，可以扫描对象并将其转换为变形金刚](https://play.onflow.org/7f66d257-3e12-4ac7-a2d0-2db503eede22)
+- [游戏，您可以使用可配置的汽车零件，组装成完整汽车](https://play.onflow.org/56099f70-d0c8-42eb-917c-9670554d764b)
+- [Shadowrun启发的冒险游戏，您可以在其中探索地图并找到线索](https://play.onflow.org/159648c8-f6c2-49b1-8707-374f3efb80e8)
+- [机器人猎人游戏，您可以根据要求的特殊单词的哈希值创建独特的机器人](https://play.onflow.org/bffa4e28-0eaf-430c-83ea-7d2465daf98d)
 
 - 第2轮
 
-- [允许艺术​​家出售其艺术品的合同。](https://play.onflow.org/dd3edf29-5bd6-4782-b941-c021a9a374ca)
+- [允许艺术​​家出售其艺术品的合同](https://play.onflow.org/dd3edf29-5bd6-4782-b941-c021a9a374ca)
 - [投票智能合约，可让选民对他们投票的提案进行优先排序](https://play.onflow.org/85fba518-818e-40fd-a546-78365657901c)
 - [投票系统，在该系统中，根据成员在组织中的作用为其分配票权](https://play.onflow.org/b7e2df71-c362-4827-8332-80685956ca75)
 - [投票教程合同的私有版本，可防止管理员公开投票结果之前任何人都无法看到投票结果](https://play.onflow.org/9ec6f096-60eb-4f7b-bfc1-abf15c572016)
