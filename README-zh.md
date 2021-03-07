@@ -2,8 +2,8 @@
 
 面向软件开发人员的 `Flow` 服务和工具精选清单
 
-**语言**
-[英文](README.md) | [中文](README-zh.md)
+
+## 语言： [英文](README.md) | [中文](README-zh.md)
 
 ![Flow](https://swarm-gateways.net/bzz:/bdf1a552d42b836b631003ff090ca0b269695886f3290460a3f39ebf001076fc/1_oTf4LOcL8j3joAPzDcqkTw.png)
  

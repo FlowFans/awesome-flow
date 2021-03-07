@@ -2,8 +2,7 @@
 
 A curated list of `Flow` services and tools for software developers
 
-**Language**
-[English](README.md) | [Chinese](README-zh.md)
+## Language： [English](README.md) | [Chinese](README-zh.md)
 
 ![Flow](https://swarm-gateways.net/bzz:/bdf1a552d42b836b631003ff090ca0b269695886f3290460a3f39ebf001076fc/1_oTf4LOcL8j3joAPzDcqkTw.png)
 
