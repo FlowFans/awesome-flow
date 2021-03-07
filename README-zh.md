@@ -1,12 +1,12 @@
-# [Awesome Flow](https://github.com/onflow/flow) 
+# [Awesome Flow](https://github.com/onflow/flow) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 面向软件开发人员的 `Flow` 服务和工具精选清单
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 **语言**
+[英文](README.md) | [中文](README-zh.md)
 
-[English](README.md) | [中文](README-zh.md)
+![Flow](https://swarm-gateways.net/bzz:/bdf1a552d42b836b631003ff090ca0b269695886f3290460a3f39ebf001076fc/1_oTf4LOcL8j3joAPzDcqkTw.png)
+ 
 
 ## 目录
 
@@ -14,7 +14,7 @@
 - [目录](#目录)
 - [Flow 区块链](#Flow区块链)
   - [网络配置](#网络配置)
-  - [Cadence合约语言](#Cadence合约语言)
+  - [Cadence语言](#Cadence语言)
   - [开发工具](#开发工具)
   - [应用](#应用)
 - [Flow通用资源](#Flow通用资源)
@@ -32,30 +32,57 @@
   - Testnet: `access.devnet.nodes.onflow.org:9000`
   - Mainnet: `access.mainnet.nodes.onflow.org:9000`
 
+- 查看合约 - 查看账户及智能合约的部署信息 ([源码](https://github.com/orodio/flow-view-source))
+  - Testnet: `https://flow-view-source.com/testnet/account/0x64ce437a3838c89d`
+  - Mainnet: `https://flow-view-source.com/mainnet/account/0x1654653399040a61`
+
+- [Flow网络状态](https://status.flow-view-source.com/): `https://status.flow-view-source.com/`
 
 
-### Cadence合约语言
+
+### Cadence语言
 
 - [Cadence 教程](https://docs.onflow.org/cadence/language) - Flow 上面的智能合约编程语言的教程
 - [Cadence Playground](https://www.onflow.org/play) - 在这里，你可以很容易地完成Cadence开发链上货币、收藏品、市场和更多的基础工作，所有这些都是基于Flow的。
+- [Cadence VScode 插件](https://onflow.readme.io/docs/visual-studio-code-extension) - 支持VScode中语法高亮和Flow 区块链模拟器的支持
 - [Playground Enhancer for Chrome](https://chrome.google.com/webstore/detail/flow-playground-enhancer/agjkjdemgkkmgdmeobefbmfiakkgkkdh) - Cadence Playground 的辅助插件 Chrome版本
 - [Playground Enhancer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/) - Cadence Playground 的辅助插件 Firefox版本
 
 ### 开发工具
-
+- [Kitty-items](https://github.com/onflow/kitty-items) -  Flow开发最佳实践
+- [flow-emulator](https://github.com/onflow/flow-emulator) - Flow 区块链模拟器，便于本地开发
 - [Flowscan](https://flowscan.org/) - Flow 的区块浏览器
-- [Flow-bigdipper](https://flowscan.org/) - Flow 的区块浏览器
+- [Flow-bigdipper](https://flow.bigdipper.live/) - Flow 的区块浏览器
+- [Testnet faucet](https://testnet-faucet.onflow.org) - 测试网水龙头和帐户创建页面。
 - [flow-js-sdk](https://github.com/onflow/flow-js-sdk) - Flow的JavaScript SDK是为了让开发连接到Flow区块链的JavaScript应用程序变得简单和安全而创建的。
 - [flow-go-sdk](https://github.com/onflow/flow-go-sdk) - 在Flow上构建Go应用程序的工具
-- [Testnet faucet](https://testnet-faucet.onflow.org) - 测试网水龙头和帐户创建工具。
-- [Kitty-items](https://github.com/onflow/kitty-items) -  Flow开发最佳实践
+- [flow-jvm-sdk](https://github.com/onflow/flow-jvm-sdk) - 在Flow上构建基于JVM的应用程序的工具
+- [go-with-the-flow](https://github.com/bjartek/go-with-the-flow) - Go与Flow交互的示例
+- [Flow dappstarter](https://dappstarter.decentology.com/) - Flow 全栈开发脚手架项目
+- [FCL Demo](https://github.com/portto/fcl-demo) - [blocto钱包](https://docs.blocto.app/blocto-sdk/flow/tutorial)的交互使用Demo （mainnet）
+- [flow-hello-world](https://github.com/portto/flow-hello-world) - flow-hello-world demo
+- [flow-node-deploy-contract-example](https://github.com/orodio/flow-node-deploy-contract-example)
+- [cadence-deployer](https://github.com/FlowFans/cadence-deployer) - 关于 Cadence 合约部署的例子
+- [BerkleyBlockchainDemo](https://github.com/JeffreyDoyle/BerkleyBlockchainDemo) - 基于Flow 区块链的Demo
+- [temp-dapp-no-react](https://github.com/orodio/temp-dapp-no-react) - 不使用React与Flow交互的方式
+- [flow-ruby](https://github.com/cybercent/flow-ruby) - Flow 与 Ruby 的简单交互
+
+
 
 
 ### 应用
 
 - [NBA Top Shot](https://www.nbatopshot.com/) - 拥有NBA历史上最好的时刻。
-- [VIV3](https://viv3.com/) - 赋予艺术家和创作者权力的NFT市场
-- [Kitty-items](https://github.com/onflow/kitty-items) -  Flow开发的最佳实践， 开发人员可参考进行开发
+- [topshot-explorer](https://github.com/rrrkren/topshot-explorer) - NBA Top shot 的链上信息[浏览器](https://topshotexplorer.com/)。
+- [VIV3](https://viv3.com/) - 赋予艺术家和创作者权力的NFT市场。
+- [Kitty-items](https://github.com/onflow/kitty-items) -  Flow开发的最佳实践， 开发人员可参考进行开发。
+- [blocto wallet](https://blocto.portto.io/) - 支持 Flow 的钱包。
+- [bloctoswap](https://swap.blocto.app/) - bloctoswap 基于flow开发的swap dapp。
+- [flow-pixel-heads](https://github.com/MaxStalker/flow-pixel-heads) - flow cryptopunks
+- [picky-cryptokitty](https://github.com/sideninja/picky-cryptokitty) - a cat game on flow
+- [OWB Summer 2020 Capstone Project](https://github.com/onflow/OWBSummer2020Project) 
+
+  
 
 
 ## Flow通用资源
@@ -73,9 +100,11 @@
 - [Flow Twitter](https://twitter.com/flow_blockchain)
 - [Flow Discord](https://discord.com/invite/flow)
 - [Flow 博客](https://www.onflow.org/blog)
-- [Flow Github](https://github.com/onflow)
+- [Flow Github (官方)](https://github.com/onflow)
 - [Flow 中文导航](https://flowfans.org/)
-- [Flow 中文社区](https://www.flowtimes.net/)
+- [Flow 爱好者社区](https://www.flowtimes.net/)
+- [Flow Github（中国）](https://github.com/FlowFans)
+- [Flow Github (日本)](https://github.com/flow-japan)
 
 
 ### Cadence杯参与者
@@ -111,12 +140,20 @@
 
 
 ### 视频
-- [Cadence - Resource Oriented Programming Paradigm](https://www.youtube.com/watch?v=OYXIr3LuclE&t=64s)
+- [Cadence - 面向资源的编程范式](https://www.youtube.com/watch?v=OYXIr3LuclE&t=64s)
 - [官方 Youtube 频道](https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg)
-- [Block Trainer - your guide to Flow Blockchain](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw) - Flow 教程
-- [0xAlchemist - Live streaming of Flow code sessions](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg) - Flow 教程
+- [Block Trainer - Flow 区块链教程](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw)  
+- [0xAlchemist - 在线直播的Flow课程](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg)  
+
+
 
 
 ### 推荐文章
 
 - Dr. Seuss - [Annoncement](https://medium.com/dapperlabs/dr-seuss-digital-collectibles-on-flow-by-the-creators-of-cryptokitties-7651835643a7)
+- Bison Trails - [Bison Trails announces support for Flow and all node types](https://bisontrails.co/flow-protocol-all-nodes-types/#multi-role-architecture-and-the-four-participation-node-types)
+- [Cadence杯回顾](https://joshuahannan.medium.com/a-retrospective-of-the-cadence-cup-3d99dcb2431e)
+- [Flow Coinlist 简介](https://coinlist.co/flow)
+- [Flow 技术研讨会](https://medium.com/dapperlabs/open-world-builders-free-virtual-blockchain-bootcamp-cefe7f0ccb9f)
+- [Flow 全栈开发](https://www.decentology.com/guides-and-tutorials/hands-on-workshop-build-a-full-stack-blockchain-app-on-flow)
+
