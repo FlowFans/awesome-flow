@@ -47,6 +47,7 @@ A curated list of `Flow` services and tools for software developers
 - [Cadence VScode plugin](https://onflow.readme.io/docs/visual-studio-code-extension) - Support syntax highlighting in VScode and Flow Blockchain Simulator
 - [Playground Enhancer for Chrome](https://chrome.google.com/webstore/detail/flow-playground-enhancer/agjkjdemgkkmgdmeobefbmfiakkgkkdh) - Cadence Playground's auxiliary plug-in Chrome version
 - [Playground Enhancer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/) - Cadence Playground's auxiliary plug-in Firefox version
+- [Cadence vs. Solidity](https://mobile-cloud-security.blogspot.com/2021/03/cadence-vs.html) by [Ken](https://forum.onflow.org/u/Ken)
 
 ### development tools
 - [Kitty-items](https://github.com/onflow/kitty-items) -  Flow development best practices
@@ -67,23 +68,23 @@ A curated list of `Flow` services and tools for software developers
 - [temp-dapp-no-react](https://github.com/orodio/temp-dapp-no-react) - Don't use React to interact with Flow
 - [flow-ruby](https://github.com/cybercent/flow-ruby) - Simple interaction between Flow and Ruby
 
-
-
-
 ### application
 
 - [NBA Top Shot](https://www.nbatopshot.com/) - Have the best moment in NBA history.
+  - [intangible.market](https://intangible.market/) by [Veerman](https://twitter.com/veerman)
+  - [Moment Ranks](https://momentranks.com/)
+  - [Evaluate Market](https://evaluate.market/)
+  - [swyysh](https://www.swyysh.com/) - Fantasy Game for NBA Top Shot Moments
 - [topshot-explorer](https://github.com/rrrkren/topshot-explorer) -Information on the chain of NBA Top shot [Browser](https://topshotexplorer.com/).
--[VIV3](https://viv3.com/)-NFT market that empowers artists and creators.
+- [VIV3](https://viv3.com/)-NFT market that empowers artists and creators.
 - [Kitty-items](https://github.com/onflow/kitty-items) -  Developers can refer to the best practices of Flow development for development.
 - [blocto wallet](https://blocto.portto.io/) - A wallet that supports Flow.
 - [bloctoswap](https://swap.blocto.app/) - bloctoswap is a swap dapp developed based on flow.
 - [flow-pixel-heads](https://github.com/MaxStalker/flow-pixel-heads) - flow cryptopunks
 - [picky-cryptokitty](https://github.com/sideninja/picky-cryptokitty) - a cat game on flow
 - [OWB Summer 2020 Capstone Project](https://github.com/onflow/OWBSummer2020Project) 
-
-  
-
+- [Genies](https://genies.com/)
+- [Chain Monsters](https://playchainmonsters.com/)
 
 ## Flow general resources
 
@@ -105,7 +106,6 @@ A curated list of `Flow` services and tools for software developers
 - [Flow fan community](https://www.flowtimes.net/)
 - [Flow Github (China)](https://github.com/FlowFans)
 - [Flow Github (Japan)](https://github.com/flow-japan)
-
 
 ### Cadence-Cup-participants
 
@@ -131,7 +131,6 @@ A curated list of `Flow` services and tools for software developers
 - [Voting contract that allows voters to divide their voting rights as a percentage](https://play.onflow.org/ea59b248-8e18-4862-9332-4a90c282c000)
 - [Show that users can show their NFTs so that others can vote and like them](https://play.onflow.org/6b4b846e-1681-4612-b2c2-f0dc8bbe92ce)
 
-
 ---
 
 - Round 3
@@ -144,14 +143,11 @@ A curated list of `Flow` services and tools for software developers
 - [Flow name service contract that simulates domain name service in smart contract](https://play.onflow.org/e05e38b1-3e45-403e-ae7f-00788893395f)
 
 
-
 ### video
 - [Cadence - Resource-oriented programming paradigm](https://www.youtube.com/watch?v=OYXIr3LuclE&t=64s)
 - [Official Youtube channel](https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg)
 - [Block Trainer - Flow Blockchain Tutorial](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw)  
 - [0xAlchemist - Flow course live online](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg)  
-
-
 
 
 ### recommended article
@@ -162,6 +158,3 @@ A curated list of `Flow` services and tools for software developers
 - [Introduction to Flow Coinlist](https://coinlist.co/flow)
 - [Flow Technical Seminar](https://medium.com/dapperlabs/open-world-builders-free-virtual-blockchain-bootcamp-cefe7f0ccb9f)
 - [Flow full stack development](https://www.decentology.com/guides-and-tutorials/hands-on-workshop-build-a-full-stack-blockchain-app-on-flow)
-
-
-
