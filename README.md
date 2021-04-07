@@ -6,8 +6,6 @@ A curated list of `Flow` services and tools for software developers
 
 ![Flow](https://swarm-gateways.net/bzz:/bdf1a552d42b836b631003ff090ca0b269695886f3290460a3f39ebf001076fc/1_oTf4LOcL8j3joAPzDcqkTw.png)
 
-
-
 ## Contents
 
 - [Awesome Flow](#Awesome-Flow)
@@ -25,20 +23,19 @@ A curated list of `Flow` services and tools for software developers
 
 ## Flow blockchain
 
-
 ### Network Configuration
 
 - Access node - Flow's network node configuration information, which can be used in SDK and client
+
   - Testnet: `access.devnet.nodes.onflow.org:9000`
   - Mainnet: `access.mainnet.nodes.onflow.org:9000`
 
 - View contract - View account and smart contract deployment information ([source code](https://github.com/orodio/flow-view-source))
+
   - Testnet: `https://flow-view-source.com/testnet/account/0x64ce437a3838c89d`
   - Mainnet: `https://flow-view-source.com/mainnet/account/0x1654653399040a61`
 
 - [Flow network status](https://status.flow-view-source.com/): `https://status.flow-view-source.com/`
-
-
 
 ### Cadence language
 
@@ -49,7 +46,8 @@ A curated list of `Flow` services and tools for software developers
 - [Playground Enhancer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/) - Cadence Playground's auxiliary plug-in Firefox version
 
 ### development tools
-- [Kitty-items](https://github.com/onflow/kitty-items) -  Flow development best practices
+
+- [Kitty-items](https://github.com/onflow/kitty-items) - Flow development best practices
 - [flow-emulator](https://github.com/onflow/flow-emulator) - Flow Blockchain Simulator for easy local development
 - [Flowscan](https://flowscan.org/) - Flow's block explorer
 - [Flow-bigdipper](https://flow.bigdipper.live/) - Flow's block explorer
@@ -67,23 +65,16 @@ A curated list of `Flow` services and tools for software developers
 - [temp-dapp-no-react](https://github.com/orodio/temp-dapp-no-react) - Don't use React to interact with Flow
 - [flow-ruby](https://github.com/cybercent/flow-ruby) - Simple interaction between Flow and Ruby
 
-
-
-
 ### application
 
 - [NBA Top Shot](https://www.nbatopshot.com/) - Have the best moment in NBA history.
-- [topshot-explorer](https://github.com/rrrkren/topshot-explorer) -Information on the chain of NBA Top shot [Browser](https://topshotexplorer.com/).
--[VIV3](https://viv3.com/)-NFT market that empowers artists and creators.
-- [Kitty-items](https://github.com/onflow/kitty-items) -  Developers can refer to the best practices of Flow development for development.
+- [topshot-explorer](https://github.com/rrrkren/topshot-explorer) -Information on the chain of NBA Top shot [Browser](https://topshotexplorer.com/). -[VIV3](https://viv3.com/)-NFT market that empowers artists and creators.
+- [Kitty-items](https://github.com/onflow/kitty-items) - Developers can refer to the best practices of Flow development for development.
 - [blocto wallet](https://blocto.portto.io/) - A wallet that supports Flow.
 - [bloctoswap](https://swap.blocto.app/) - bloctoswap is a swap dapp developed based on flow.
 - [flow-pixel-heads](https://github.com/MaxStalker/flow-pixel-heads) - flow cryptopunks
 - [picky-cryptokitty](https://github.com/sideninja/picky-cryptokitty) - a cat game on flow
-- [OWB Summer 2020 Capstone Project](https://github.com/onflow/OWBSummer2020Project) 
-
-  
-
+- [OWB Summer 2020 Capstone Project](https://github.com/onflow/OWBSummer2020Project)
 
 ## Flow general resources
 
@@ -106,11 +97,9 @@ A curated list of `Flow` services and tools for software developers
 - [Flow Github (China)](https://github.com/FlowFans)
 - [Flow Github (Japan)](https://github.com/flow-japan)
 
-
 ### Cadence-Cup-participants
 
 `Note: Some contracts may cause code incompatibility exceptions due to playground upgrades, cadence updates, etc.`
-
 
 - Round 1
 
@@ -120,7 +109,7 @@ A curated list of `Flow` services and tools for software developers
 - [An adventure game inspired by Shadowrun, where you can explore the map and find clues](https://play.onflow.org/159648c8-f6c2-49b1-8707-374f3efb80e8)
 - [Robot hunter game, you can create a unique robot based on the hash value of the required special word](https://play.onflow.org/bffa4e28-0eaf-430c-83ea-7d2465daf98d)
 
---- 
+---
 
 - Round 2
 
@@ -130,7 +119,6 @@ A curated list of `Flow` services and tools for software developers
 - [Private version of the voting tutorial contract, which prevents the administrator from seeing the voting results before anyone can see the voting results](https://play.onflow.org/9ec6f096-60eb-4f7b-bfc1-abf15c572016)
 - [Voting contract that allows voters to divide their voting rights as a percentage](https://play.onflow.org/ea59b248-8e18-4862-9332-4a90c282c000)
 - [Show that users can show their NFTs so that others can vote and like them](https://play.onflow.org/6b4b846e-1681-4612-b2c2-f0dc8bbe92ce)
-
 
 ---
 
@@ -143,16 +131,12 @@ A curated list of `Flow` services and tools for software developers
 - [Define a contract with boxes with different loot inside. Players can use their own keys to unlock boxes to add loot to their pile](https://play.onflow.org/50d7d7d3-a439-4d09-b3a2-207071804820)
 - [Flow name service contract that simulates domain name service in smart contract](https://play.onflow.org/e05e38b1-3e45-403e-ae7f-00788893395f)
 
-
-
 ### video
+
 - [Cadence - Resource-oriented programming paradigm](https://www.youtube.com/watch?v=OYXIr3LuclE&t=64s)
 - [Official Youtube channel](https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg)
-- [Block Trainer - Flow Blockchain Tutorial](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw)  
-- [0xAlchemist - Flow course live online](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg)  
-
-
-
+- [Block Trainer - Flow Blockchain Tutorial](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw)
+- [0xAlchemist - Flow course live online](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg)
 
 ### recommended article
 
@@ -162,6 +146,4 @@ A curated list of `Flow` services and tools for software developers
 - [Introduction to Flow Coinlist](https://coinlist.co/flow)
 - [Flow Technical Seminar](https://medium.com/dapperlabs/open-world-builders-free-virtual-blockchain-bootcamp-cefe7f0ccb9f)
 - [Flow full stack development](https://www.decentology.com/guides-and-tutorials/hands-on-workshop-build-a-full-stack-blockchain-app-on-flow)
-
-
-
+- How to Create NFTs Like NBA Top Shot With Flow and IPFS [Part 1](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf) [Part 2](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a) [Part 3](https://medium.com/pinata/how-to-create-an-nft-marketplace-on-flow-with-ipfs-a162a1aeb426)
