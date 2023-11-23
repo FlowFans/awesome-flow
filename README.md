@@ -50,6 +50,7 @@ A curated list of `Flow` services and tools for software developers
 
 - [Kitty-items](https://github.com/onflow/kitty-items) - Flow development best practices
 - [flow-emulator](https://github.com/onflow/flow-emulator) - Flow Blockchain Simulator for easy local development
+- [Flowser](https://flowser.dev) - Convenient development tool for Flow. Easily start you local blockchain & inspect the state.
 - [Flowscan](https://flowscan.org/) - Flow's block explorer
 - [Flow-bigdipper](https://flow.bigdipper.live/) - Flow's block explorer
 - [Testnet faucet](https://testnet-faucet.onflow.org) - Testnet faucet and account creation page.
